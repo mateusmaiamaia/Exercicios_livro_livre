@@ -69,5 +69,5 @@ Siga os passos abaixo para realizar o versionamento do seu trabalho:
 **Envie a branch para o repositório remoto
   Após finalizar suas alterações e realizar o commit, envie a branch para o repositório remoto:
   ```bash
-  git push origin Exercicio_seu_nom
+  git push origin Exercicio_seu_nome
 ```
